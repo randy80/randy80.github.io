@@ -36,8 +36,6 @@ jobs:
         run: yarn install
 
       - name: Build Docs
-        env:
-          NODE_OPTIONS: --max_old_space_size=8192
         run: yarn run docs:build
 
       - name: Deploy Docs

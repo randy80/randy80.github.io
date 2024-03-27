@@ -29,6 +29,9 @@ jobs:
           node-version: 20
           cache: yarn
 
+      - name: Install Yarn
+        run: npm install --global yarn@berry
+
       - name: Install Deps
         run: yarn install --frozen-lockfile
 

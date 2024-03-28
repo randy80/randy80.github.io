@@ -1,3 +1,4 @@
 .pnp.cjs
 /docs/.vuepress/dist/
 /.yarn/
+/.idea/

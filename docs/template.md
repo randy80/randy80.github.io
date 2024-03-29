@@ -5,6 +5,8 @@ category:
 tag:
   - WWI
 archive: true
+sticky: true
+excerpt: <p>A sticky article demo.</p>
 ---
 
 # Archive Article1

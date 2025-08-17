@@ -13,6 +13,6 @@ export default withNextra({
   images: {
     unoptimized: true
   },
-  basePath: 'https://randy80.github.io/', // GitHub 저장소 이름으로 변경
-  assetPrefix: 'https://randy80.github.io/', // GitHub 저장소 이름으로 변경
+  basePath: '/', // GitHub 저장소 이름으로 변경
+  assetPrefix: '/', // GitHub 저장소 이름으로 변경
 })

@@ -12,7 +12,5 @@ export default withNextra({
   trailingSlash: true,
   images: {
     unoptimized: true
-  },
-  basePath: '/randy80.github.io', // GitHub 저장소 이름으로 변경
-  assetPrefix: '/randy80.github.io', // GitHub 저장소 이름으로 변경
+  }
 })
